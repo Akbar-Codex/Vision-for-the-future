@@ -1,0 +1,6 @@
+Rencana untuk kedepannya
+ - Belajar Javascript
+ - ------- PHP
+ - ------- Framwork Laravel
+ - ------- Java
+ - ------- Mysql Oracle
