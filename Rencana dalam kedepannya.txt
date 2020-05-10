@@ -4,3 +4,4 @@ Rencana untuk kedepannya
  - ------- Framwork Laravel
  - ------- Java
  - ------- Mysql Oracle
+ - ------- ES6 javascript
